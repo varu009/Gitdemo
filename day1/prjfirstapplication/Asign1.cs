@@ -27,7 +27,7 @@ namespace prjfirstapplication
         {
             int no_of_subj;
 
-            Console.WriteLine("Enter number of subjects");
+            Console.WriteLine("Enter number of subjects:");
             no_of_subj = Convert.ToInt32(Console.ReadLine());
             if (no_of_subj < 5)
             {
