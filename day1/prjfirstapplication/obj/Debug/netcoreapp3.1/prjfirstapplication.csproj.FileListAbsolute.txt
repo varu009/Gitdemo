@@ -1,0 +1,13 @@
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.exe
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.deps.json
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.runtimeconfig.json
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.runtimeconfig.dev.json
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.dll
+D:\.Net\day1\prjfirstapplication\bin\Debug\netcoreapp3.1\prjfirstapplication.pdb
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.csproj.AssemblyReference.cache
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.AssemblyInfoInputs.cache
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.AssemblyInfo.cs
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.csproj.CoreCompileInputs.cache
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.dll
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.pdb
+D:\.Net\day1\prjfirstapplication\obj\Debug\netcoreapp3.1\prjfirstapplication.genruntimeconfig.cache
